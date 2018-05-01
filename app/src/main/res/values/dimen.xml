@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_detail">20dp</dimen>
+    <dimen name="margin_textView">20dp</dimen>
+    <dimen name="margin_textView_big">50dp</dimen>
+    <dimen name="imageView_size">100dp</dimen>
+    <dimen name="imageView_size_big">150dp</dimen>
+    <dimen name="height_single_item">150dp</dimen>
+    <dimen name="margin_textView_start">10dp</dimen>
+    <dimen name="margin_scrollview">10dp</dimen>
+    <dimen name="size_progressbar">40dp</dimen>
+</resources>
